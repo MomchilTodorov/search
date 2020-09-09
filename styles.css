@@ -26,7 +26,7 @@
 }
 
 .Home:hover, .MyAccount:hover, .Shopping-bag:hover  {
-  background-color: green;
+  background-color: #79b0a1;
   cursor: pointer;
 }
 
